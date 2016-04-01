@@ -1,27 +1,16 @@
 # 个人简历
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yangjunlong/resume/blob/master/LICENSE)
-[![NPM version](https://badge.fury.io/js/yangjunlong.png)](http://badge.fury.io/js/yangjunlong)
-> There is only one heroism in the world：to see the world as it is and to love it.
 
-## 自我介绍
-> 拥有五年WEB前端开发经验、优秀的互联网基因，有亿级PV产品线大型项目经验，具有一定的前端架构能力，熟悉敏捷开发流程，熟练使用svn、git、sublime等开发工具。
-
-> 偶将时刻关注给力offer中ing...
-
-> <del>世界那么大，我想去看看</del>
 
 ## 个人信息
 姓名：
 
 性别：男
 
-籍贯：山东
+籍贯：四川
 
 爱好：不求甚解的阅读，心无旁骛的工作，情不自禁的去爱，说走就坐车的旅行...
 
-做过：[读书](http://thing.douban.com/subject/759/)，[放风筝](http://thing.douban.com/subject/38/)，[摄影](http://www.douban.com/thing/185/)，[骑行](http://www.douban.com/thing/102/)，[搭讪](http://www.douban.com/thing/198/)，[做梦](http://thing.douban.com/subject/556/)，[下厨房](http://www.douban.com/thing/2035/)，[看电影](http://www.douban.com/thing/237/)，[修数码产品](http://www.douban.com/thing/2121/)...
-
-职业：`前端开发工程师` · `北京`
+职业：`前端开发工程师` · `成都`
 
 ## 教育经历
 `2006.9` ~ `2010.6` [山东财经大学](http://www.sdufe.edu.cn/) `信息管理与信息系统专业` 本科
@@ -136,9 +125,9 @@
 ---
 
 ## 联系方式
-邮箱：583528957@qq.com
+邮箱：472189217@qq.com
 
-博客：[http://sobird.me](http://sobird.me)
+博客：[http://404nan.com](http://404nan.com)
 
 ## 最后
 如果你觉得我的简历还不错的话，通过支付宝打赏我
@@ -154,4 +143,4 @@
 ## 致谢
 谨在此向所有在我求职过程中帮助过我的小伙伴们表示感谢！
 
-如果你对此简历有任何问题，欢迎提[issue](https://github.com/yangjunlong/resume/issues)。
+如果你对此简历有任何问题，欢迎提[issue](https://github.com/404Nan/resume/issues)。
